@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "core-js": "3.15.2",
+    "nuxt": "2.15.7"
+  }
+}

@@ -1,0 +1,3 @@
+<template>
+    <MyComp></MyComp>
+</template>
